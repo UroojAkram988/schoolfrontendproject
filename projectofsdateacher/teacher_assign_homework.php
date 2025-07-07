@@ -1,4 +1,4 @@
-<!-- teacher_assign_homework.php -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

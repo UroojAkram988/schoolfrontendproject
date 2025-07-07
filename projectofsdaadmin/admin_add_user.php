@@ -1,4 +1,4 @@
-<!-- admin_add_user.php -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

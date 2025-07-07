@@ -1,4 +1,4 @@
-<!-- manage_grades.php -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

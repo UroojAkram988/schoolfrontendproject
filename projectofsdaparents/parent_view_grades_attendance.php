@@ -1,4 +1,4 @@
-<!-- parent_view_grades_attendance.php -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

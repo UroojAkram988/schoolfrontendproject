@@ -1,4 +1,4 @@
-<!-- teacher_dashboard.php -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

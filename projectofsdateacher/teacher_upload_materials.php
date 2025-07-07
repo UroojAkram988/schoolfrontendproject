@@ -1,4 +1,4 @@
-<!-- teacher_upload_materials.php -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

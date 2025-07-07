@@ -163,8 +163,6 @@
         <div class="count">1</div>
       </div>
     </div>
-
-    <!-- Options Grid -->
     <div class="options-grid">
         <a href="parent_view_fees.php">View Fee status</a>
       <a href="parent_view_grades_attendance.php">View Child Grades And Attendance</a>

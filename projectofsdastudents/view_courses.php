@@ -1,4 +1,4 @@
-<!-- student_view_courses.php -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -1,4 +1,4 @@
-<!-- manage_users.php -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
