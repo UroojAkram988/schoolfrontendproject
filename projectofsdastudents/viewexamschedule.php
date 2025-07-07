@@ -1,4 +1,4 @@
-<!-- student_view_exam_schedule.php -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
