@@ -34,6 +34,6 @@ This project is a fully designed **frontend interface** for a School Management 
 - **Icons:** Font Awesome
 - **Layout:** Custom Flex/Grid + Responsive Design
 ## 💡 Author Notes
-This project was built for academic purposes with complete frontend functionality. You can later integrate it with backend technologies like PHP, MySQL, Firebase, or others to make it dynamic and functional.
+This project was built for academic purposes with complete frontend functionality. I can later integrate it with backend technologies like PHP or JS, MySQL, Firebase, or others to make it dynamic and functional.
 
 
